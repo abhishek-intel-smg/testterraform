@@ -1,7 +1,7 @@
 # [START compute_flask_quickstart_vm]
 # Create a single Compute Engine instance
 provider "google" {
-  project     = "newdevopsintel"
+  project     = "dcgsalesbangalore-11729444"
   region      = "us-west1"
   zone        = "us-west1-a"
 }
